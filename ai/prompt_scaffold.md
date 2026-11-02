@@ -4,7 +4,7 @@ Fill in every `[bracket]`, then paste the finished prompt into your approved AI 
 
 ## Before you paste: privacy check
 
-- Open `ai/workshops_spring2026.csv` and **delete the `host_name` and `host_email` columns** from what you paste. Names and emails are personal information (PII), even when they're fake. No PII in prompts.
+- Open `ai/workshops_spring2026.csv` and **delete the  and  columns** from what you paste. Names and emails are personal information (PII), even when they're fake. No PII in prompts.
 - Paste the data only. Don't paste the baseline summary; the AI shouldn't see the answer you'll grade it against.
 
 ## The scaffold
