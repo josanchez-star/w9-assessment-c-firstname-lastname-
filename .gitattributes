@@ -1,0 +1,2 @@
+# Keep the Task 3 raw data byte-for-byte (its encoding problem is intentional).
+data/raw.csv -text

@@ -1,0 +1,25 @@
+workshop_id,date,neighborhood,topic,time_slot,host_name,host_email,registered,attended,avg_rating,followup_signups
+W01,2026-03-03,Englewood,Online Job Search,Weekday 10am,Priya Raman,priya.raman@example.org,22,12,4.7,5
+W02,2026-03-05,Rogers Park,Online Job Search,Weekday 6pm,Priya Raman,priya.raman@example.org,18,15,4.4,6
+W03,2026-03-07,Logan Square,Intro to Spreadsheets,Saturday 11am,Marcus Bell,marcus.bell@example.org,19,17,4.2,4
+W04,2026-03-12,Englewood,Smartphone Essentials,Weekday 6pm,Luis Ortega,luis.ortega@example.org,27,21,4.5,3
+W05,2026-03-14,Pilsen,Online Job Search,Saturday 11am,Priya Raman,priya.raman@example.org,24,21,4.6,8
+W06,2026-03-18,Pilsen,Online Safety Basics,Weekday 6pm,Dana Whitfield,dana.whitfield@example.org,23,18,4.5,3
+W07,2026-03-21,Bronzeville,Smartphone Essentials,Saturday 11am,Luis Ortega,luis.ortega@example.org,24,20,4.4,3
+W08,2026-03-25,Logan Square,Online Job Search,Weekday 6pm,Priya Raman,priya.raman@example.org,23,19,4.7,7
+W09,2026-04-01,Bronzeville,Intro to Spreadsheets,Weekday 6pm,Marcus Bell,marcus.bell@example.org,16,13,4.4,3
+W10,2026-04-04,Rogers Park,Smartphone Essentials,Saturday 11am,Luis Ortega,luis.ortega@example.org,24,21,4.3,4
+W11,2026-04-07,Logan Square,Smartphone Essentials,Weekday 6pm,Luis Ortega,luis.ortega@example.org,24,18,4.3,4
+W12,2026-04-11,Austin,Intro to Spreadsheets,Saturday 11am,Marcus Bell,marcus.bell@example.org,19,16,4.0,3
+W13,2026-04-14,Pilsen,Smartphone Essentials,Weekday 10am,Luis Ortega,luis.ortega@example.org,20,11,4.6,2
+W14,2026-04-16,Bronzeville,Online Safety Basics,Weekday 10am,Dana Whitfield,dana.whitfield@example.org,21,12,4.6,2
+W15,2026-04-23,Pilsen,Intro to Spreadsheets,Weekday 6pm,Marcus Bell,marcus.bell@example.org,24,19,3.9,4
+W16,2026-04-25,Rogers Park,Intro to Spreadsheets,Saturday 11am,Marcus Bell,marcus.bell@example.org,16,14,4.3,2
+W17,2026-04-30,Austin,Online Safety Basics,Weekday 10am,Dana Whitfield,dana.whitfield@example.org,17,9,4.4,1
+W18,2026-05-02,Logan Square,Online Safety Basics,Saturday 11am,Dana Whitfield,dana.whitfield@example.org,20,18,4.6,4
+W19,2026-05-06,Englewood,Intro to Spreadsheets,Weekday 10am,Marcus Bell,marcus.bell@example.org,23,13,4.0,2
+W20,2026-05-13,Austin,Online Job Search,Weekday 6pm,Priya Raman,priya.raman@example.org,27,21,4.6,8
+W21,2026-05-16,Bronzeville,Online Job Search,Saturday 11am,Priya Raman,priya.raman@example.org,23,19,4.9,7
+W22,2026-05-19,Austin,Smartphone Essentials,Weekday 10am,Luis Ortega,luis.ortega@example.org,25,14,4.4,2
+W23,2026-05-23,Englewood,Online Safety Basics,Saturday 11am,Dana Whitfield,dana.whitfield@example.org,21,18,4.6,3
+W24,2026-05-26,Rogers Park,Online Safety Basics,Weekday 6pm,Dana Whitfield,dana.whitfield@example.org,18,15,4.3,3

@@ -1,0 +1,32 @@
+sale_id,market_date,,vendor_name,category,items_sold,,payment_type
+1001,2026-06-06,Pilsen,Taqueria El Sol,Food,42,$378.00,Card
+1002,2026-06-06,Pilsen,Green Roots Farm,Produce,35,157.5,cash
+1003,2026-06-06, Pilsen,Westside Threads,Crafts,6,$192.00,Card
+1004,2026-06-06,PILSEN,Cafe Lumiere,food,58,$232.00,Mobile
+1005,2026-06-06,Pilsen,Bead & Bloom,Crafts,N/A,$96.00,card
+1006,06/13/2026,Bronzeville,Nana's Sweet Potato Pies,Food,24,$216.00,Cash
+1007,06/13/2026,Bronzeville,Lakefront Honey,Produce,18,USD 162,card
+1008,06/13/2026,bronzeville,Southside Soap Co.,Crafts,twelve,$84.00,CASH
+1009,2026-06-13,Bronzeville,Taqueria El Sol,Food,39,$351.00,Card
+1010,06/13/2026,Bronzeville,Westside Threads,crafts,,NULL,
+1011,Jun 20 2026,Logan Square,Café Lumière,Food,61,$244.00,Mobile
+1012,Jun 20 2026,Logan Square,Green Roots Farm,Produce,7.0,$31.50,cash
+1013,Jun 20 2026,Logan Sq.,Bead & Bloom,Crafts,9,108,Card
+1014,Jun 20 2026,Logan Square,Nana's Sweet Potato Pies,FOOD ,30,$270.00,card
+1015,Jun 20 2026,logan square,Lakefront Honey,Produce, 14 ,$126.00,Cash 
+1012,Jun 20 2026,Logan Square,Green Roots Farm,Produce,7.0,$31.50,cash
+1016,2026/06/27,Austin,Southside Soap Co.,Crafts,15,$105.00,Card
+1017,2026/06/27,Austin,Taqueria El Sol,Food,47,$423.00,mobile pay
+1018,2026/06/27,AUSTIN,Westside Threads,Crafts,4,-,Cash
+1019,2026/06/27,Austin,Green Roots Farm,produce,29,$130.50,card
+1020,06/27/2026,Austin,Cafe Lumiere,Food,900,$36.00,Card
+1021,7/11/26,Hyde Park,Lakefront Honey,Produce,21,$189.00,CARD
+1022,7/11/26,Hyde Park ,Nana's Sweet Potato Pies,Food,n/a,$198.00,Cash
+1023,7/11/26,Hyde Park,Bead & Bloom,craft,11,$132.00,Mobile
+1024,2026-07-11,Hyde Park,Southside Soap Co.,Crafts,13,91.00 ,card
+1025,7/11/26,Hyde Park,Taqueria El Sol,Food,52,$468.00,none
+1026,18-Jul-2026,Rogers Park,Green Roots Farm,Produce,33,$148.50,Cash
+1027,18-Jul-2026,Rogers Park,Westside Threads,Crafts,8,$256.00,Card
+1028,18-Jul-2026,rogers park,Cafe Lumiere,Food,49,$196.00,mobile
+1029,18-Jul-2026,Rogers Park,Lakefront Honey,Produce,-,$117.00,card
+1030,,Rogers Park,Bead & Bloom,Crafts,10,$120.00,Cash

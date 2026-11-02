@@ -1,0 +1,7 @@
+Task 2 run log: paste your terminal output here (both runs).
+
+== Run 1: mock API running (success) ==
+
+
+== Run 2: simulated failure (say which: server stopped, wrong port, ?simulate=500, ...) ==
+

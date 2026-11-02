@@ -1,0 +1,4 @@
+# Dependencies (never commit these)
+node_modules/
+
+# Task 2 reminder: secrets must never be committed.

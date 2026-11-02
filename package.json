@@ -1,0 +1,15 @@
+{
+  "name": "w9-assessment-c",
+  "version": "1.0.0",
+  "private": true,
+  "description": "i.c.stars Tech Foundations Performance Assessment C starter kit (JavaScript)",
+  "scripts": {
+    "check": "node scripts/check_setup.js",
+    "mock-api": "node mock-api/server.js",
+    "task2": "node api/task2.js",
+    "pipeline": "node run_pipeline.js"
+  },
+  "dependencies": {
+    "dotenv": "16.4.7"
+  }
+}
